@@ -1,4 +1,4 @@
-# Repossitory contains Solution of the interview test implemented in Python.
+# Repository contains Solution of the interview test implemented in Python.
 
 __Задание__: Написать консольное приложение на C++ или C#.
 
